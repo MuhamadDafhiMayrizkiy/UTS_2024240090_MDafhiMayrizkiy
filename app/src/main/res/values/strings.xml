@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">UTS_2024240090_MDafhiMayrizkiy</string>
+    <string name="app_name">UTS_Ilham_Indra_Hidayat</string>
+    <string-array name="arr_jenis">
+        <item> jalur tanpa tes </item>
+        <item> tes tertulis </item>
+        <item> tes qawancara </item>
+        <item> rekomendasi </item>
+    </string-array>
 </resources>

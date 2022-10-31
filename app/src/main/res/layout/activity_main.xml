@@ -41,7 +41,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:layout_below="@+id/et_nomor_pendaftaran"
-        android:entries="@array/arr-jenis-pendaftaran"/>
+        android:entries="@array/arr_jenis"/>
 
     <CheckBox
         android:id="@+id/cbx_konfirmasi_daftar"
